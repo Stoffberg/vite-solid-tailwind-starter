@@ -27,3 +27,6 @@ npm run preview
 ## Deploy
 
 Static `dist/` output. `vercel.json` rewrites all routes to `index.html`.
+
+- Existing Vercel project: `https://vite-solid-tailwind-starter.vercel.app`
+- GitHub Pages workflow deploys `dist/` on push to `master`
