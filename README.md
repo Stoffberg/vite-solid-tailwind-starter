@@ -1,6 +1,6 @@
 # Action Buttons Chat Demo
 
-**Live demo:** https://htmlpreview.github.io/?https://github.com/Stoffberg/vite-solid-tailwind-starter/blob/master/docs/index.html
+**Live demo:** https://stoffberg.github.io/vite-solid-tailwind-starter/
 
 SolidJS + Vite + Tailwind demo of assistant **action buttons**: confirm, choose an option, or open a file picker. These are client actions, not suggested follow-up prompts.
 
@@ -30,6 +30,6 @@ npm run preview
 
 Static `dist/` output. `vercel.json` rewrites all routes to `index.html`.
 
-- Public demo (no login): https://htmlpreview.github.io/?https://github.com/Stoffberg/vite-solid-tailwind-starter/blob/master/docs/index.html
+- Public demo (no login): https://stoffberg.github.io/vite-solid-tailwind-starter/
+- Same demo at the user Pages root: https://stoffberg.github.io/
 - Existing Vercel project still serves the old starter: `https://vite-solid-tailwind-starter.vercel.app`
-- GitHub Pages workflow is ready; turn Pages on in repo settings if you want `https://stoffberg.github.io/vite-solid-tailwind-starter/`
